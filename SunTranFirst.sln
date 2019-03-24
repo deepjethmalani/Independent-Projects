@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunTranFirst", "SunTranFirst\SunTranFirst.csproj", "{14550D50-58AA-4EAA-88A4-C98412773EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunTranFirst.Tests", "SunTranFirst.Tests\SunTranFirst.Tests.csproj", "{2983DE07-4617-4D97-ABFF-8DD8DCCF60FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14550D50-58AA-4EAA-88A4-C98412773EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14550D50-58AA-4EAA-88A4-C98412773EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14550D50-58AA-4EAA-88A4-C98412773EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14550D50-58AA-4EAA-88A4-C98412773EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2983DE07-4617-4D97-ABFF-8DD8DCCF60FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2983DE07-4617-4D97-ABFF-8DD8DCCF60FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2983DE07-4617-4D97-ABFF-8DD8DCCF60FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2983DE07-4617-4D97-ABFF-8DD8DCCF60FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CFE0F46-06E1-4D79-B2A7-DACDAC762206}
+	EndGlobalSection
+EndGlobal
