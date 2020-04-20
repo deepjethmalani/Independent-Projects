@@ -1,7 +1,7 @@
 # Sun Tran
 
-This is an academic project which uses Sun Tran, which is Tucson, Arizona's public transit system, as a synthetic client.
-Checkout the video here: https://youtu.be/m1eAyb3vPVE
+This is an academic project which uses Sun Tran (Tucson, Arizona's public transit system) as a synthetic client.
+Checkout the full project video here: https://youtu.be/m1eAyb3vPVE
 
 Technology Stack: Visual Studio, C#, ASP.NET, HTML, CSS, JavaScript
 
